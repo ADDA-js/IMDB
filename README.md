@@ -9,5 +9,5 @@
 
 ## OMDB
 - [OMDB API](http://www.omdbapi.com/)
-- sample request, `http://www.omdbapi.com/?t=point+break&y=&plot=full&r=json`
+- sample request, http://www.omdbapi.com/?t=point+break&y=&plot=full&r=json
 - Read the docs to discover what else can be done.
